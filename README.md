@@ -18,7 +18,7 @@ Or some other random place.
 
 # Topics
 ## Human Capital
-[7 Practices Of Successful Organisations](https://github.com/liamjflood/Blog-Posts/wiki/7-Practices-Of-Successful-Organisations.md)
+[7 Practices Of Successful Organisations](https://github.com/liamjflood/Blog-Posts/wiki/7-Practices-Of-Successful-Organisations)
 
 [[Intercultural Management]]
 
